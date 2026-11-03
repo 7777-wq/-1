@@ -1,0 +1,41 @@
+ord count source text excerpt: 212 words Four deliverables: style‑guide.md｜before.md｜after.md｜review.md
+📄 style‑guide.md
+# Project Style Guide (6 rules with before‑after examples)
+
+## Rule1: State clear starting‑point prerequisites before numbered steps
+❌ Before: Open the file and start editing.
+✅ After: Start: Open README.md with repository edit permission.
+
+## Rule2: Every procedure step starts with action verb
+❌ Before: The user should do editing work on the intro file.
+✅ After: Modify content inside README.md.
+
+## Rule3: Keep terminology consistent; avoid vague pronouns “it”
+❌ Before: Open it and finish necessary editing.
+✅ After: Open README.md and modify your project introduction text.
+
+## Rule4: Place condition clauses at sentence beginning
+❌ Before: Ask administrator if you cannot edit.
+✅ After: If you cannot edit, contact your repository administrator.
+
+## Rule5: Use numbered lists for sequential task workflow
+❌ Before: Open file. Then preview. Then save.
+✅ After:
+1. Open README.md
+2. Select Preview tab
+3. Commit your changes
+
+## Rule6: Add an explicit result‑check statement after procedure
+❌ Before: Check it afterwards.
+✅ After: Check result: Your updated README appears on repository homepage.
+📄 before.md (original source text excerpt)
+It is super easy to update your intro file. Open it and do the necessary editing. Save it with Publish. Check it afterwards. If you cannot edit, ask somebody. You can add your project goal and some steps. After you make changes, you should look to make sure things look okay on the webpage.
+📄 after.md (revised document)
+# Update your repository README file
+Start: Sign into GitHub via desktop browser and open your repository’s README.md file. You need edit permission for this repository.
+
+1. Select the pencil edit icon to enter edit mode. Revise your project introduction content.
+2. Click Preview tab and inspect Markdown rendering effect.
+3. Write a short commit message describing your edits. Select Commit changes to save your modifications.
+
+Check result: Return to repo
