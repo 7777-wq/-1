@@ -1,0 +1,36 @@
+Case study软件指南排版案例
+场景：软件手册，14pt 正文，18pt 标题，只用红色文字做警告。
+层级问题：仅依靠字号区分标题正文，视觉层级偏弱；警告只靠红色文字，色盲 / 色彩弱用户无法识别警告。 
+改进方案： 
+给警告增加明确的 “Warning” 文字标签 + 警示图标符号； 
+调整标题与正文间距，强化层级； 
+在目标设备屏幕上完成可读性测试，不把颜色作为唯一提示手段。
+15‑min Case study：写一页英文操作指南
+选题：Task A：Create a private repository with a README on GitHub
+Time plan: Plan 2 min｜Draft 7 min｜Peer‑test 4 min｜Revise 2 min 
+# Create a private repository with a README Goal: Create a new private GitHub repository containing a default README file. Before you start (Prerequisites)
+You have signed‑in GitHub account on desktop browser. 
+You have permission to create new repositories under your account. 
+Procedure
+Click the plus + menu in the top‑right GitHub navigation bar. 
+Select New repository from the dropdown menu. 
+Type docs‑practice as your repository name. If this name is taken, use another available name. 
+Select the Private visibility option. 
+Check the box for Add a README file. 
+Click Create repository. 
+Check your result
+The repository main page loads and displays your README file content.
+If it fails
+If repository creation fails, double‑check your account permission and repository name availability.
+Peer‑test feedback example： At step 1, I need to know where the plus menu locates (top‑right corner). Revision: Add description: Click the plus + menu located at top‑right corner of GitHub webpage.
+④ GitHub 四选一实操任务（选任务 B：Edit your repository’s README.md）
+Task B: Edit your repository’s README.md Start: You own the repository and you have edit permission. Goal: Update README to include a goal and three numbered task steps inside README. Prerequisites
+Desktop web browser, signed‑in GitHub account. 
+Your existing repository. 
+Steps
+Navigate to your repository main page. 
+Find the README.md file and click the pencil edit icon. 
+Add a task goal and three numbered procedural steps into the Markdown content. 
+Select Preview tab to verify formatting. 
+Fill commit message and select Commit changes. 
+Check result: Refresh page; the updated content appears on repository homepage.
